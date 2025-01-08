@@ -1,6 +1,6 @@
 # HotelManagementSystem
 
-A C++ Project that implements a simple Hotel Management System. This project allows users to manage room bookings, customer records, and room allocations for a hotel.
+This is a C++ Project that implements a simple Hotel Management System. It allows users to manage room bookings, customer records, and room allocations for a hotel.
 
 ## Features
 
@@ -41,18 +41,21 @@ Libraries:
 
 1. Clone the repository:
 
-  ```git clone https://github.com/your-username/hotel-management-system.git
+  ```bash
+  git clone https://github.com/your-username/hotel-management-system.git
   cd hotel-management-system
   ```
 
 2. Compile the project
 
-  ```make
+  ```bash
+make
   ```
 
 3. Run the executable:
 
-  ```./hotel_management
+  ```bash
+./hotel_management
   ```
 
 4. Follow the menu instructions to use the system.
