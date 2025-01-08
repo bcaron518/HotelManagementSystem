@@ -63,25 +63,20 @@ make
 ## How It Works
 
 Menu Options:
-1. Book A Room:
-
+1. **Book A Room**:
   - Enter customer details like name, address, phone number, and days of stay.
   - A room is booked, and fare is calculated based on the number of days.
 
-2. View Customer Record:
-
+2. **View Customer Record**:
   - Enter the room number to fetch and display customer details.
 
-3. View Rooms Allotted:
-
+3. **View Rooms Allotted**:
   - Lists all rooms currently booked along with customer details.
 
-4. Edit Record:
-
+4. **Edit Record**:
   - Modify or delete an existing customer record by room number.
 
-5. Exit:
-
+5. **Exit**:
   - Close the application.
 
 ## License
