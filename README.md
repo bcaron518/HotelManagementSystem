@@ -65,24 +65,24 @@ make
 Menu Options:
 1. Book A Room:
 
-- Enter customer details like name, address, phone number, and days of stay.
-- A room is booked, and fare is calculated based on the number of days.
+  - Enter customer details like name, address, phone number, and days of stay.
+  - A room is booked, and fare is calculated based on the number of days.
 
 2. View Customer Record:
 
-- Enter the room number to fetch and display customer details.
+  - Enter the room number to fetch and display customer details.
 
 3. View Rooms Allotted:
 
-- Lists all rooms currently booked along with customer details.
+  - Lists all rooms currently booked along with customer details.
 
 4. Edit Record:
 
-- Modify or delete an existing customer record by room number.
+  - Modify or delete an existing customer record by room number.
 
 5. Exit:
 
-- Close the application.
+  - Close the application.
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your projects.
